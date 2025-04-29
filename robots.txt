@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://junieguo.github.io/discord-ticket-extractor-landing-page/sitemap.xml
